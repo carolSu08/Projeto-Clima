@@ -1,0 +1,16 @@
+.busca button{
+    color: #FFF;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.busca button:hover{
+    background-color: #444;
+}
+.resultado {
+    width: 300px;
+    display: none;
+    border: 1px dotted #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+}
